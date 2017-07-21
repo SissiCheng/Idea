@@ -1,0 +1,27 @@
+Higher-order-function:
+	take a function as parameter,this called higher order function
+
+	map()
+		ex:
+			def f(x):
+				return x*x
+			r= mape(f,[1,2,3,4,5,6,7,8])
+			list(r)
+
+	reduce()
+		ex:
+			
+
+
+	filter()
+		ex:
+			
+	sorted()
+		ex:
+
+return function:
+	
+
+
+
+	
