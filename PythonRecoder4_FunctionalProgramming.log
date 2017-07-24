@@ -20,7 +20,10 @@ Higher-order-function:
 		ex:
 
 return function:
-	ta
+	
+匿名函数： lamda
+装饰器：
+偏函数：固定函数的某些参数
           
 
 
